@@ -1,4 +1,11 @@
 ## Hi there 👋
+#### I'm Calvin, also known as RoboTurtles or FireTurtle online!
+
+Thanks for visiting my profile. I'm currently a student attending **Unionville High School**, located in **Markham, Ontario**.
+
+I'm currently new to Github and the programming community. Feel free to say hi! Looking forward to my stay here.  
+
+__*A turtle of the people, for the people*__
 
 <!--
 **RoboTurtles/RoboTurtles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
